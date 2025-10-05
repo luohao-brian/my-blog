@@ -3,15 +3,15 @@
 layout: home
 
 hero:
-  name: "Hao's blog"
-  text: "Write something I am studying, about AI, Python, Linux and Cloud."
-  tagline: My great project tagline
+  name: Hao's blog
+  text: Write something I am working on...
+  tagline: AI, GPU, Python, Linux, and Cloud
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Get Started
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: View on GitHub
       link: /api-examples
 
 features:
